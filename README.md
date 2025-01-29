@@ -24,7 +24,7 @@ The data consists of 17 columns and 8,469 rows, with each row representing a sin
 
 Customers are overall dissatisfied with their customer service experience. An overall CSAT score of 39 out of 100 was recorded.  A contributing factor to their dissatisfaction could include a long average time to resolution of 11 hours and 42 minutes. Overall, the customer service department is handling an average of ticket volume of 314 tickets per hour. 
 
-![Executive Summary](assets/Exec Summary.png)
+![Executive Summary](assets/Exec_Summary.png)
 
 
 ## Insights Deep Dive
