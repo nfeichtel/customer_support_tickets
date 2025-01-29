@@ -13,7 +13,7 @@ The SQL queries used to inspect and clean the data for this analysis can be foun
 
 Analysis SQL queries regarding various business questions can be found [here](/analysis_queries/).
 
-An interactive Tableau dashboard used to report and explore customer service trends can be found here [link].
+An interactive Tableau dashboard used to report and explore customer service trends can be found [here](https://public.tableau.com/app/profile/nick.feichtel/viz/AnalysisofCustomerSupportTickets/Dashboard1#1).
 
 ## Data Structure
 
@@ -22,7 +22,9 @@ The data consists of 17 columns and 8,469 rows, with each row representing a sin
 
 ## Executive Summary
 
-Customers are overall dissatisfied with their customer service experience. An overall CSAT score of 39 out of 100 was recorded.  A contributing factor to their dissatisfaction could include a long average time to resolution of 11 hours and 42 minutes. Overall, the customer service department is handling an average of ticket volume of 314 tickets per hour. This high ticket volume could be leading to our reps being unable to provide the high customer service that meets our standards.
+Customers are overall dissatisfied with their customer service experience. An overall CSAT score of 39 out of 100 was recorded.  A contributing factor to their dissatisfaction could include a long average time to resolution of 11 hours and 42 minutes. Overall, the customer service department is handling an average of ticket volume of 314 tickets per hour. 
+
+![Executive Summary](assets/Exec Summary.png)
 
 
 ## Insights Deep Dive
