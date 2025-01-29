@@ -32,16 +32,18 @@ Customers are overall dissatisfied with their customer service experience. An ov
 Customer Satisfaction: 
 - Based on a CSAT score of 39, overall customers are dissatisfied with our level of customer service. The average customer satisfaction rating given was 3 out of 5. This suggests that while the overall CSAT score might be low, the customer service experienced can be categorized as “ok” as opposed to “poor”.
 - The ticket channel with the highest CSAT score was “Chat” with a score of 42, and the channel with the lowest score was “Social Media” with a score of 37. The ticket subject with the highest customer satisfaction involved refund requests (CSAT 43) while the lowest was delivery issues (CSAT 33).
+![CSAT Summary](assets/CSAT_Summary.png)
 
 Time to Resolution:
 - For closed tickets, the quickest time to resolution was instant and the longest time to resolution was 23 hours and 59 minutes. The average time to resolution is 11 hours and 42 minutes. 
 - Short ticket resolution times comprised 35.5% of tickets, with medium resolution times comprising 31.7%, and long resolution times approximating 32.8% of closed tickets. While short ticket time to resolution comprised the highest percentage of closed tickets, increasing this number substantially could have a positive impact on customer satisfaction.
+![Res Time](assets/Time_to_Resolution_Summary.png)
 
 Ticket Volume: 
 - Total ticket volume 8,469 with 32.7% of these tickets being closed during the analyzed period. The remaining 67.3% of tickets are either open or pending customer response.
 - The average ticket volume per hour is 313.9. With 45 customer service specialists working each shift, this equates to approximately 7 tickets per specialist per hour.
 - Volume over our 4 ticket channels and 5 ticket types are all evenly distributed.
-
+![Ticket Volume](assets/Ticket_Volume_Summary.png)
 
 ## Recommendations
 
